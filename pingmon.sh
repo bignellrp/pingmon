@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 WEBHOOK='https://hooks.slack.com/services/YOURWEBHOOKCODEHERE'
 NODES='pingmon_nodes'
